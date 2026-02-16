@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "weather-test": "node test.js"
-  },
+    "weather-test": "node weatherCheck.js"
+  }
   "devDependencies": {
     "jest": "^29.7.0"
   }
