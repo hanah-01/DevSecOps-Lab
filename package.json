@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "weather-test": "node weatherCheck.js"
-  }
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
