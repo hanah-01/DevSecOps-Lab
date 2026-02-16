@@ -27,8 +27,8 @@ jobs:
         run: npm install
 
       - name: Run Unit Tests
-        run: npm run weather-test  
-
+        run: npm run weather-test
+  
       - name: Run Security Check
         run: node app.js
         env:
