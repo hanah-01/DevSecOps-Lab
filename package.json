@@ -4,6 +4,10 @@
   "description": "CI Weather App",
   "main": "app.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jest",
+    "weather-test": "node test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
